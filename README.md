@@ -45,6 +45,13 @@ const safiullah = {
 
 <br/>
 
+## 🎓 Certifications
+
+![IBM Data Science](https://img.shields.io/badge/Data%20Science%20Specialization-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI%20for%20Everyone-DeepLearning.AI-2E8B8B?style=for-the-badge&logo=coursera&logoColor=white)
+
+<br/>
+
 ## 🚀 Featured Projects
 
 ### 📊 Student Performance Analyzer
@@ -53,7 +60,7 @@ Student Performance Analyzer using Python, Pandas and Matplotlib
 
 <div align="left">
   <a href="https://github.com/Safiullah-222/Student-Performance-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&hide_border=true&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
   </a>
 </div>
 
@@ -74,7 +81,7 @@ A machine learning project that predicts house prices using regression models bu
 
 <div align="left">
   <a href="https://github.com/Safiullah-222/House_price_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&hide_border=true&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
   </a>
 </div>
 
