@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🧭 Safiullah Shaikh
-### CS Student · Data & Generative AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=Safiullah%20Shaikh&fontSize=42&fontColor=2E8B8B&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Data%20%26%20Generative%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=E8E8E8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B8B&background=00000000&center=true&vCenter=true&width=600&lines=Discipline+in+Code%2C+Precision+in+Data;Building+with+Python+%2B+Data;Exploring+Generative+AI;Turning+Data+into+Insights" alt="Typing SVG" />
@@ -53,13 +52,9 @@ const safiullah = {
 Student Performance Analyzer using Python, Pandas and Matplotlib
 
 <div align="left">
-
-**[📊 Student-Performance-Analyzer](https://github.com/Safiullah-222/Student-Performance-Analyzer)**
-
-![Stars](https://img.shields.io/github/stars/Safiullah-222/Student-Performance-Analyzer?color=2E8B8B&style=flat-square)
-![Language](https://img.shields.io/github/languages/top/Safiullah-222/Student-Performance-Analyzer?color=2E8B8B&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Safiullah-222/Student-Performance-Analyzer?color=2E8B8B&style=flat-square)
-
+  <a href="https://github.com/Safiullah-222/Student-Performance-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
+  </a>
 </div>
 
 | Layer         | Technology            |
@@ -78,13 +73,9 @@ Student Performance Analyzer using Python, Pandas and Matplotlib
 A machine learning project that predicts house prices using regression models built with Scikit-Learn
 
 <div align="left">
-
-**[🏠 House_price_prediction](https://github.com/Safiullah-222/House_price_prediction)**
-
-![Stars](https://img.shields.io/github/stars/Safiullah-222/House_price_prediction?color=2E8B8B&style=flat-square)
-![Language](https://img.shields.io/github/languages/top/Safiullah-222/House_price_prediction?color=2E8B8B&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Safiullah-222/House_price_prediction?color=2E8B8B&style=flat-square)
-
+  <a href="https://github.com/Safiullah-222/House_price_prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
+  </a>
 </div>
 
 | Layer         | Technology            |
@@ -111,7 +102,8 @@ A machine learning project that predicts house prices using regression models bu
 
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" width="100%"/>
+
 <sub>⚔️ Humanity's greatest weapon isn't strength — it's precision.</sub>
 
 </div>
