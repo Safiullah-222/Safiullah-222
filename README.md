@@ -53,9 +53,13 @@ const safiullah = {
 Student Performance Analyzer using Python, Pandas and Matplotlib
 
 <div align="left">
-  <a href="https://github.com/Safiullah-222/Student-Performance-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
-  </a>
+
+**[📊 Student-Performance-Analyzer](https://github.com/Safiullah-222/Student-Performance-Analyzer)**
+
+![Stars](https://img.shields.io/github/stars/Safiullah-222/Student-Performance-Analyzer?color=2E8B8B&style=flat-square)
+![Language](https://img.shields.io/github/languages/top/Safiullah-222/Student-Performance-Analyzer?color=2E8B8B&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Safiullah-222/Student-Performance-Analyzer?color=2E8B8B&style=flat-square)
+
 </div>
 
 | Layer         | Technology            |
@@ -74,9 +78,13 @@ Student Performance Analyzer using Python, Pandas and Matplotlib
 A machine learning project that predicts house prices using regression models built with Scikit-Learn
 
 <div align="left">
-  <a href="https://github.com/Safiullah-222/House_price_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
-  </a>
+
+**[🏠 House_price_prediction](https://github.com/Safiullah-222/House_price_prediction)**
+
+![Stars](https://img.shields.io/github/stars/Safiullah-222/House_price_prediction?color=2E8B8B&style=flat-square)
+![Language](https://img.shields.io/github/languages/top/Safiullah-222/House_price_prediction?color=2E8B8B&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Safiullah-222/House_price_prediction?color=2E8B8B&style=flat-square)
+
 </div>
 
 | Layer         | Technology            |
