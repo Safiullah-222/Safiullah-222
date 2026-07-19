@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=Safiullah%20Shaikh&fontSize=42&fontColor=2E8B8B&animation=twinkling&fontAlignY=35&desc=CS%20Student%20-%20Data%20and%20Generative%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=E8E8E8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:134E4A,100:2E8B8B&height=220&section=header&text=Safiullah%20Shaikh&fontSize=42&fontColor=E8E8E8&animation=twinkling&fontAlignY=35&desc=CS%20Student%20-%20Data%20and%20Generative%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=E8E8E8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B8B&background=00000000&center=true&vCenter=true&width=600&lines=Discipline+in+Code%2C+Precision+in+Data;Building+with+Python+%2B+Data;Exploring+Generative+AI;Turning+Data+into+Insights" alt="Typing SVG" />
@@ -60,7 +60,7 @@ Student Performance Analyzer using Python, Pandas and Matplotlib
 
 <div align="left">
   <a href="https://github.com/Safiullah-222/Student-Performance-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&hide_border=true&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
+    <img src="https://opengraph.githubassets.com/1/Safiullah-222/Student-Performance-Analyzer" width="500" />
   </a>
 </div>
 
@@ -81,7 +81,7 @@ A machine learning project that predicts house prices using regression models bu
 
 <div align="left">
   <a href="https://github.com/Safiullah-222/House_price_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&hide_border=true&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
+    <img src="https://opengraph.githubassets.com/1/Safiullah-222/House_price_prediction" width="500" />
   </a>
 </div>
 
@@ -109,7 +109,7 @@ A machine learning project that predicts house prices using regression models bu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B8B,50:134E4A,100:0D1B2A&height=100&section=footer" width="100%"/>
 
 <sub>⚔️ Humanity's greatest weapon isn't strength — it's precision.</sub>
 
