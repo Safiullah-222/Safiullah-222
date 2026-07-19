@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=220&section=header&text=Safiullah%20Shaikh&fontSize=42&fontColor=B22222&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Data%20%26%20Generative%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=C0C0C0" width="100%"/>
+# 🧭 Safiullah Shaikh
+### CS Student · Data & Generative AI Enthusiast
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B22222&background=00000000&center=true&vCenter=true&width=600&lines=Discipline+in+Code%2C+Precision+in+Data;Building+with+Python+%2B+Data;Exploring+Generative+AI;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B8B&background=00000000&center=true&vCenter=true&width=600&lines=Discipline+in+Code%2C+Precision+in+Data;Building+with+Python+%2B+Data;Exploring+Generative+AI;Turning+Data+into+Insights" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-B22222?style=for-the-badge&logo=github&logoColor=C0C0C0)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2E8B8B?style=for-the-badge&logo=github&logoColor=0d0d0d)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Safiullah-222&color=B22222&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Safiullah-222?color=B22222&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=C0C0C0)
+![Profile Views](https://komarev.com/ghpvc/?username=Safiullah-222&color=2E8B8B&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Safiullah-222?color=2E8B8B&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=0d0d0d)
 
 </div>
 
@@ -53,7 +54,7 @@ Student Performance Analyzer using Python, Pandas and Matplotlib
 
 <div align="left">
   <a href="https://github.com/Safiullah-222/Student-Performance-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&border_color=B22222&title_color=B22222&icon_color=B22222" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=Student-Performance-Analyzer&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
   </a>
 </div>
 
@@ -74,7 +75,7 @@ A machine learning project that predicts house prices using regression models bu
 
 <div align="left">
   <a href="https://github.com/Safiullah-222/House_price_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&border_color=B22222&title_color=B22222&icon_color=B22222" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safiullah-222&repo=House_price_prediction&theme=dark&border_color=2E8B8B&title_color=2E8B8B&icon_color=2E8B8B" />
   </a>
 </div>
 
@@ -93,11 +94,16 @@ A machine learning project that predicts house prices using regression models bu
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=for-the-badge&logo=linkedin&logoColor=C0C0C0)](https://www.linkedin.com/in/safiullah-shaikh-7122713b4/)
-[![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=C0C0C0)](mailto:safiullahshaikh099@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E8B8B?style=for-the-badge&logo=linkedin&logoColor=E8E8E8)](https://www.linkedin.com/in/safiullah-shaikh-7122713b4/)
+[![Email](https://img.shields.io/badge/Email-2E8B8B?style=for-the-badge&logo=gmail&logoColor=E8E8E8)](mailto:safiullahshaikh099@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=100&section=footer" width="100%"/>
+<div align="center">
+
+---
+<sub>⚔️ Humanity's greatest weapon isn't strength — it's precision.</sub>
+
+</div>
